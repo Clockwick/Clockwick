@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋🏼, I'm Paratthakorn</h1>
 
-I am a learner who passionate about Website developer and Game creation, Few languages that I enjoy working in are Python, C++, Javascript. For now, I'm interesting in <strong>Backend development</strong>
+I am a learner who passionate about Website developement and Game creation, Few languages that I enjoy working in are Python, C++, Javascript. For now, I'm interesting in <strong>Backend development</strong>
 
   - #### 🏫 I’m currently studying at <strong>King Mongkut's Institute of Technology Ladkrabang</strong>
   - 📫 Contact me : **oclockth@gmail.com**
