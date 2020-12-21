@@ -3,6 +3,7 @@
 I am a learner who passionate about Website developement and Game creation, Few languages that I enjoy working in are Python, C++, Javascript. For now, I'm interesting in <strong>Backend development</strong>
 
   - #### 🏫 I’m currently studying at <strong>King Mongkut's Institute of Technology Ladkrabang</strong>
+  - Start coding since 2019
   - 📫 Contact me : **oclockth@gmail.com**
 ### ⏬ Here's my github stats 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Clockwick&show_icons=true&theme=radical&hide=issues)](https://github.com/anuraghazra/github-readme-stats) 
