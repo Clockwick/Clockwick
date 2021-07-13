@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋🏼, I'm Paratthakorn</h1>
 
-I am a learner who passionate about web development and iOS development, Few languages that I enjoy working in are Swift 5, Javascript, Python, C++ , Java & Others. For now, I'm working on <strong>IOS Development</strong>
+I am a learner who passionate about web development and iOS development, Few languages that I enjoy working in are Swift 5, Javascript, Python, C++ , Java & Others. For now, I'm now working on <strong>iOS Development</strong>
 
   - #### 🏫 I’m currently studying at <strong>King Mongkut's Institute of Technology Ladkrabang</strong>
   - 💻 Start Coding since **2019**
