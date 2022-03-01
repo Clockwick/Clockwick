@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋🏼, I'm Paratthakorn</h1>
+<h1 align="center"> Hi 👋🏼, I'm O (Yeah, Just O)</h1>
 
   - #### 🏫 I’m currently studying at <strong>King Mongkut's Institute of Technology Ladkrabang</strong>
   - 📫 Contact me : **oclockth@gmail.com**
