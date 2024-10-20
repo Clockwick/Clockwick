@@ -1,6 +1,6 @@
-<h1 align="center"> Hi 👋🏼, I'm O (Yeah, Just O)</h1>
+<h1 align="center"> Hi 👋🏼 </h1>
 
-  - #### 🏫 I’m currently studying at <strong>King Mongkut's Institute of Technology Ladkrabang</strong>
+  - #### 🏫 I’m currently working on Frontend (iOS / Web development)
   - 📫 Contact me : **paratthakorn.sribunyong@gmail.com**
   - My LinkedIn Profile 👉🏻 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paratthakorn-sribunyong-797093187/)](https://www.linkedin.com/in/paratthakorn-sribunyong-797093187/) 👈🏻
 
