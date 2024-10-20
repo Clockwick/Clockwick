@@ -3,6 +3,7 @@
   - #### 🏫 I’m currently working on Frontend (iOS / Web development)
   - 📫 Contact me : **paratthakorn.sribunyong@gmail.com**
   - My LinkedIn Profile 👉🏻 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paratthakorn-sribunyong-797093187/)](https://www.linkedin.com/in/paratthakorn-sribunyong-797093187/) 👈🏻
+  - <b>I'm not quite active on Github</b>
 
 
 ### ⏬ Here's my github stats 
